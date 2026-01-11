@@ -69,6 +69,15 @@ const products = [
         originalPrice: 14.99,
         salePrice: 4.99,
         purchaseLink: "https://maken8n.gumroad.com/l/300AIBabyPodcastReels?wanted=true"
+    },
+	{
+        id: 9,
+        title: "56.000 Real estate marketing template Real Estate Social Media Instagram Bundle , Real Estate Marketing ,Realtor instagram Posts",
+        image: "https://i.etsystatic.com/33265266/r/il/7c0a3d/7201949016/il_794xN.7201949016_ooxt.jpg",
+        description: "💼 What’s Inside 🎞️ 300 Viral Reels – High-quality, faceless, aesthetic reels optimized for Instagram, TikTok, YouTube Shorts & more. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/56kRealestatemarketing?wanted=true"
     }
 
 ];
