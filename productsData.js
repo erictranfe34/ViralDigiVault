@@ -87,6 +87,15 @@ const products = [
         originalPrice: 14.99,
         salePrice: 4.99,
         purchaseLink: "https://maken8n.gumroad.com/l/300kStreetwearBundle?wanted=true"
+    },
+	{
+        id: 11,
+        title: "25,000+ KDP Coloring Pages Mega Bundle – For Teens, Boys & Girls | Printable Interior",
+        image: "https://i.etsystatic.com/51819808/r/il/e1f914/7045880972/il_794xN.7045880972_gfg0.jpg",
+        description: "💼 What’s Inside 🎞️ 25,000+ KDP Coloring Pages Mega Bundle. 🔓 PLR + MRR Included – Rebrand, resell, or bundle for 100% profit—no restrictions.",
+        originalPrice: 14.99,
+        salePrice: 4.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/25kColoringPages?wanted=true"
     }
 
 ];
