@@ -1,5 +1,14 @@
 const products = [
     {
+        id: 12,
+        title: "How I Make $10k+ a Month with Facebook Content Monetization",
+        image: "https://public-files.gumroad.com/tzf21ht5yxpd6rl1nmpw28zs57pw",
+        description: "",
+        originalPrice: 49.99,
+        salePrice: 11.99,
+        purchaseLink: "https://maken8n.gumroad.com/l/facebook10k?wanted=true"
+    },
+	{
         id: 1,
         title: "75,000+ Viral Reels Bundle, TikTok, Instagram & YouTube",
         image: "https://i.etsystatic.com/62529683/r/il/84a50e/7337809412/il_794xN.7337809412_c3ux.jpg",
@@ -99,3 +108,4 @@ const products = [
     }
 
 ];
+
